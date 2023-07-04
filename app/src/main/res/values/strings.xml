@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Fragment Sample</string>
+
+    <string-array name="spinner_state">
+        <item>Select State</item>
+        <item>Andhra Pradesh</item>
+        <item>Andaman Nicobar</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhattisgarh</item>
+        <item>Chandigarh</item>
+        <item>Dadra and Nagar Haveli</item>
+        <item>Daman and Diu</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerala</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Nagaland</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Pondicherry</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+
+
+
+<string name="Heading" tools:ignore="ExtraTranslation">Available Language</string>
+<string name="checkBox1" tools:ignore="ExtraTranslation">Java</string>
+<string name="checkBox2_text" tools:ignore="ExtraTranslation">Python</string>
+<string name="checkBox1_text" tools:ignore="ExtraTranslation">Flutter</string>
+<string name="checkBox3_text" tools:ignore="ExtraTranslation">Node js</string>
+<string name="checkBox4_text" tools:ignore="ExtraTranslation">Go lang</string>
+<string name="checkBox5_text" tools:ignore="ExtraTranslation">C</string>
+<string name="submitButton" tools:ignore="ExtraTranslation">SUBMIT</string>
+
+
+</resources>
