@@ -123,6 +123,9 @@
                  the emp_name so initializer block uses
                  the default values and
                  print to the standard output.</string>
-
-
+    <string name="nav_header_title">App Real11</string>
+    <string name="nav_header_subtitle">Shah Rukh Khan</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
